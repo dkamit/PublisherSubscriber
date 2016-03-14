@@ -3,7 +3,7 @@
 - ZeroMQ based publisher and consumer distrbuted system.
 
 - Uses maven to build the project.
-    mvn clean package
+>>`mvn clean package`
 
 - publisher can be started as
 
