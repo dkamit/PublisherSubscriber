@@ -5,7 +5,7 @@
 - Uses maven to build the project.
 >>`mvn clean package`
 
-- publisher can be started as
+- publisher can be started as passing location as argument
 
 >>`java -jar target/publisher-jar-with-dependencies.jar dubai`
 
